@@ -1,0 +1,52 @@
+body{
+	background:#B3B3B3;
+	font-size:150%;
+	
+	margin:4%
+}
+
+header{
+	margin:10px;
+	text-align:center;
+	padding:25px;
+	background: linear-gradient(45deg, red, blue);!important;
+}
+nav{
+	font-variant:small-caps;
+	font-size:150%;
+	font-family:Arial, Time New Roman, serif;
+
+}
+
+nav a{
+	display:inline-block;
+	background-color:#FFFFFF;
+	width:22%;
+	
+}	
+h1{
+	color:#FFFFFF;
+}
+h2{
+	background-color:aqua;
+}
+section{
+	width:30%;
+	display:inline-block;
+	float:left;
+	margin-right:2%;
+}
+footer{
+	clear:both;
+	background-color:grey;
+}
+div{
+	display:inline-block;
+	width:45%;
+}
+ol{
+	list-style-type:upper-roman;
+}
+ul{
+	list-style-type:square;
+}
